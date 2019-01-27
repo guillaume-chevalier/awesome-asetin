@@ -38,7 +38,7 @@ Made with love for the members of ASETIN, University Laval, Québec City.
 - [CFI-UL](http://www.cfiul.ca/) - A motivated student group for CS competitions and related training. Manages talks for the CS Games and the CS Games.
 - [CS Games 2015 Seminars](https://github.com/youvere/Seminars) - Talks given for the students selection for the 2016 edition of the CS Games [[see winners](https://www.fsg.ulaval.ca/nouvelle/article/des-etudiants-de-la-fsg-sont-montes-sur-le-podium-aux-derniers-cs-games/)].
 - [CS Games 2016 Seminars](https://www.facebook.com/groups/883538038389002/) - Talks given for the students selection for the 2017 edition of the CS Games. This group is now more general and accepts talks for everything.
-- [CS Games 2017 Seminars](https://github.com/CFI-UL/presentations) - Talks given for the students selection for the [2018 edition of the CS Games](http://csgames.org/corpo/cs-games-2018-x-ulaval/) especially hosted at University Laval here this year!
+- [CS Games 2017 & 2018 Seminars](https://github.com/CFI-UL/presentations) - Talks given by students, for students, in the context of preparation for the CS Games. 
 - [IGGG](http://www2.ift.ulaval.ca/~pgiguere/rgroup/) - IFT-GLO-GEL-GIF: Computer Vision & Applied Machine Learning Reading Group.
 
 
